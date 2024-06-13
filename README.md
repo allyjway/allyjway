@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allyjway
+- <h3>👋 Hi, I’m @allyjway</h3>
 - 👀 I’m interested in Web Design and Development
 - 📫 How to reach me:
 - allyjway@gmail.com
