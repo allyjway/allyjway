@@ -1,4 +1,4 @@
-- <h3>👋 Hi, I’m @allyjway</h3>
+ <h2>👋 Hi, I’m Alicia Wayland</h2>
 - 👀 I’m interested in Web Design and Development
 - 📫 How to reach me:
 - allyjway@gmail.com
