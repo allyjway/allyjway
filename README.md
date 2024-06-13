@@ -1,5 +1,5 @@
- <h2>👋 Hi, I’m Alicia Wayland</h2>
-- 👀 I’m interested in Web Design and Development
+ <h1>👋 Hi, I’m Alicia Wayland</h1>
+<p>- 👀 I’m interested in Web Design and Development</p>
 - 📫 How to reach me:
 - allyjway@gmail.com
 - 858-432-8948
